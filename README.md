@@ -6,14 +6,14 @@
 
 #### 1.打开vc后点击上边工具栏里的工程
 
-![](Pics/工程.png)
+![](吃豆人/Pics//工程.png)
 
 #### 2. 点击工程后会出现下拉栏，然后选择设置
 
-![](Pics/工程设置.png)
+![](吃豆人//Pics//工程设置.png)
 
 #### 3. 然后出现以下图片，此时点击c/c++，然后点击分类右边的选择栏，选择Code Generation，然后再点击Use run-time library下拉栏里的Multithreaded、Debug Multithreaded中的任一个
 
-![](Pics/end.png)
+![](吃豆人//Pics//end.png)
 
 #### 4. 最后点确定就可以正常运行代码了
